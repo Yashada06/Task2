@@ -1,11 +1,11 @@
 # Task2
 HR Analysis Dashboard
 1: Downloaded the HR analytics csv file.
-2: checked for columns and plan how can i design our dashboard and which columns can i take.
-3: Create pivot table to check and compare columns
+2: Checked for columns and plan how can i design our dashboard and which columns can i take.
+3: Created pivot table chart to check and compare columns
 4: Open power bi software
 5: Tap get data to upload my csv file into power bi software
-6: Don data cleaning process - using transform data
+6: Done data cleaning process - using transform data
 7: Checked and resolved empty cells 
 8: Checked and resolved data types
 9: Checked and resolved duplicate values
